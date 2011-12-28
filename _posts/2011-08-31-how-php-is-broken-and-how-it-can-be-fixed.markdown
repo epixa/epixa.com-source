@@ -12,7 +12,7 @@ How PHP is Broken and How It Can Be Fixed
 
 **Edit (Nov 14 2011 6:03pm)** The follow-up article is posted [here][followup].
 
-[followup]: /2011/11/follow-up-how-php-is-broken-and-how-it-can-be-fixed.html
+[followup]: http://epixa.com/2011/11/follow-up-how-php-is-broken-and-how-it-can-be-fixed.html
 
 **Edit (Aug 31 2011 8:05pm):** When I started writing this article, my intentions were to criticize the PHP core developers for what I consider to be a severely broken process.  I do want to make that clear.  As a member of the community and a long-time PHP programmer, I find it indescribably irritating that a failure as significant as the release of PHP 5.3.7 could happen without the dev team at least backing up the release of PHP 5.3.8 with an analysis of exactly what happened and exactly what measures were being considered so that it never happened again.  The problem here is not that a human made an error, the problem is that there were no measures in place to stop that error from happening, and so far there hasn't been (or I haven't seen) an official explanation of what measures will be put in place.
 
