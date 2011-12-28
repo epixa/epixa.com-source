@@ -12,7 +12,7 @@ Follow-up: How PHP is Broken and How It Can Be Fixed
 
 A few weeks ago I wrote an [article][original] in which I complained about a few aspects of the PHP development process that I thought were inexcusable and harmful.  The article was surprisingly well-received with only a handful of people responding by demeaning me; given the nature of the article, I'd say that is a big win!  The generally positive response does not make up for the flaws in the article itself, however.  You see, I started out writing the article with the serious intention of making not only an honest critique but also providing some practical feedback for how the process could be improved.  I feel my critique was completely honest, but I failed spectacularly in my second goal, and any merit that the article had was overshadowed by its negative tone.
 
-[original]: /2011/08/how-php-is-broken-and-how-it-can-be-fixed.html
+[original]: http://epixa.com/2011/08/how-php-is-broken-and-how-it-can-be-fixed.html
 
 It is no secret that the PHP development process has never been a shining example of project organization or quality assurance.  Until recently, some of the most important aspects of any project's development cycle were either entirely lacking or were ill-defined.  Worse, there was little in the form of systemic quality assurance.  Fortunately, the core devs did not ignore these issues, and they've been pushing really hard to improve on these areas over the past few years:  They've created a new [release process][release-process], a new [voting procedure][voting-process], and have been building up the automated [test coverage][test-coverage].  They're shaping the development process into a more open, clear, and modern process that the whole community can be proud of.
 
