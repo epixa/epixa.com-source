@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<h2 class="categories">
+  {% for category in site.categories %}
+    {% assign name = category[0] %}
+    {% if name == page.category %}
+      {{ name }}
+    {% else %}
+      <a href="/category/{{ name }}">{{ name }}</a>
+    {% endif %}
+    &nbsp;
+  {% endfor %}
+</h2>
+
+<ul class="posts">
+  {% for post in site.categories[page.category] %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>

@@ -1,0 +1,226 @@
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: white;
+    font: 14px helvetica, arial, sans-serif;
+}
+
+h1 {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+h3, h4, h5, h6 {
+    font-size: 16px;
+}
+
+p, ul, ol {
+    line-height: 1.4;
+    margin: 14px 0;
+}
+
+li {
+    margin: 6px 0;
+}
+
+a {
+    color: #00a;
+}
+
+a:hover {
+    color: #000;
+}
+
+a:visited {
+    color: #a0a;
+}
+
+/*****************************************************************************/
+/*
+/* Global
+/*
+/*****************************************************************************/
+
+header {
+    margin: 34px auto 20px;
+    overflow: hidden;
+    width: 600px;
+}
+
+    header h1 {
+        float: left;
+        line-height: 24px;
+        width: 135px;
+    }
+
+        header h1 a,
+        header h1 a:hover,
+        header h1 a:visited {
+            color: #000;
+            text-decoration: none;
+        }
+
+    header nav {
+        float: left;
+        line-height: 24px;
+        width: 365px;
+    }
+
+        header nav a,
+        header nav a:hover,
+        header nav a:visited {
+            color: #666;
+            margin-right: 10px;
+            text-decoration: none;
+        }
+
+#content {
+    margin: 0 auto;
+    width: 600px;
+}
+
+    #content img {
+        max-width: 600px;
+    }
+
+    #content p,
+    #content ul,
+    #content ol {
+        text-align: justify;
+    }
+
+    #content .intro {
+        color: #666;
+        font-size: 13px;
+        margin-bottom: 18px;
+    }
+
+        #content .intro a {
+            color: #666;
+            text-decoration: none;
+        }
+
+        #content .intro a:hover {
+            text-decoration: underline;
+        }
+
+footer {
+    border-top: 3px solid #f6f6f6;
+    font-size: 12px;
+    line-height: 1.6;
+    margin: 28px auto 0;
+    overflow: hidden;
+    padding: 10px 0;
+    width: 600px;
+}
+
+    footer .rss {
+        float: right;
+        width: 32px;
+    }
+
+    footer .contact {
+        color: #666;
+        float: left;
+        width: 165px;
+    }
+
+        footer .contact a {
+            color: #8085C1;
+            text-decoration: none;
+        }
+
+/*****************************************************************************/
+/*
+/* Post Indexes
+/*
+/*****************************************************************************/
+
+ul.posts {
+    list-style-type: none;
+}
+
+    ul.posts span {
+        color: #aaa;
+        font-family: Monaco, "Courier New", monospace;
+        font-size: 80%;
+    }
+
+/*****************************************************************************/
+/*
+/* Posts
+/*
+/*****************************************************************************/
+
+#post {
+    border-top: 3px solid #f6f6f6;
+    padding-top: 20px;
+}
+
+    #post pre {
+        border: 1px solid #ddd;
+        background-color: #eef;
+        padding: 0 .4em;
+    }
+
+    #post ul,
+    #post ol {
+        margin-left: 1.35em;
+    }
+
+    #post code {
+        border: 1px solid #ddd;
+        background-color: #eef;
+        font-size: 85%;
+        padding: 0 .2em;
+    }
+
+    #post pre code {
+        border: none;
+    }
+
+    #post pre.terminal {
+        border: 1px solid black;
+        background-color: #333;
+        color: white;
+    }
+
+    #post pre.terminal code {
+        background-color: #333;
+    }
+
+#related {
+    margin-top: 28px;
+}
+
+    #related h2 {
+        margin-bottom: 18px;
+    }
+
+#comments {
+    margin-top: 28px;
+}
+
+
+/*****************************************************************************/
+/*
+/* Categories
+/*
+/*****************************************************************************/
+
+.categories a {
+    color: #aaa;
+    text-decoration: none;
+}

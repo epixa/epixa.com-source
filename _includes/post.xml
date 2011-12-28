@@ -1,0 +1,7 @@
+  <entry>
+    <title>{{ post.title | xml_escape }}</title>
+    <link href="http://epixa.com{{ post.url }}"/>
+    <id>{% if post.legacy_id %}{{ post.legacy_id }}{% else %}{{ post.id }}{% endif %}</id>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <content type="html"><![CDATA[{{ post.content | markdownify | cdata_escape }}]]></content>
+  </entry>

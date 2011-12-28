@@ -1,0 +1,14 @@
+---
+layout: default
+title: Court Ewing
+---
+
+<p class="intro">
+    Engineer on <a href="http://orchestra.io">Orchestra</a>.  Open source advocate.  Infrequent Blogger.
+</p>
+
+<ul class="posts">
+{% for post in site.posts %}
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>

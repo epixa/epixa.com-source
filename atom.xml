@@ -1,0 +1,21 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Court Ewing</title>
+  <link href="http://epixa.com/atom.xml" rel="self"/>
+  <link href="http://epixa.com/"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>http://epixa.com/</id>
+  <author>
+    <name>Court Ewing</name>
+    <email>court@epixa.com</email>
+  </author>
+
+  {% for post in site.posts %}
+  {% include post.xml %}
+  {% endfor %}
+
+</feed>
