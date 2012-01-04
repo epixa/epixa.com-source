@@ -23,7 +23,7 @@ In the meantime, [David Coallier][david], [Eamon Leonard][eamon], and [Helgi Þo
 [helgi]: http://twitter.com/h
 [orchestra]: http://orchestra.io
 
-Early in the same month, a theme of blog articles started to spring up throughout the web.  In numerous "Ideas of March" posts, open source developers discussed the merits of knowledge sharing through traditional blogging rather than through social networks and micro-blogging services such as twitter.  This struck a chord with me as many of these authors had inspired me through their own blogs over the years.  I had been trying to think of a way to explain my feelings on the matter for some time, so I jumped on the bandwagon with my own plea to ["Think About the Little Guy"].
+Early in the same month, a theme of blog articles started to spring up throughout the web.  In numerous "Ideas of March" posts, open source developers discussed the merits of knowledge sharing through traditional blogging rather than through social networks and micro-blogging services such as twitter.  This struck a chord with me as many of these authors had inspired me through their own blogs over the years.  I had been trying to think of a way to explain my feelings on the matter for some time, so I jumped on the bandwagon with my own plea to ["Think About the Little Guy"][article-mar15].
 
 [article-mar15]: http://epixa.com/2011/03/ideas-of-march-think-about-the-little-guy.html
 
