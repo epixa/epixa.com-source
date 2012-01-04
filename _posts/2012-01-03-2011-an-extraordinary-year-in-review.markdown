@@ -49,7 +49,7 @@ August concluded with a bang when the [news][announcement] broke that [Engine Ya
 [announcement]: http://blog.orchestra.io/post/9291203706/orchestra-engine-yard
 [engineyard]: http://engineyard.com
 
-At this point, I wanted to start hacking away at the Orchestra platform, but we still had responsibilities at Echolibre.  I worked on our final project at Echolibre throughout September and into October: [WorldIrish][worldirish], has the ambitious goal of compiling the definitive online catalog of the "Irish Experience" throughout the world.  Despite still being in beta, it has networked together more than 11,000 people who wish to share their own Irish stories, ideas, and experiences.
+At this point, I wanted to start hacking away at the Orchestra platform, but we still had responsibilities at Echolibre.  I worked on our final project at Echolibre throughout September and into October: [WorldIrish][worldirish] has the ambitious goal of compiling the definitive online catalog of the "Irish Experience" throughout the world.  Despite still being in beta, it has networked together more than 11,000 people who wish to share their own Irish stories, ideas, and experiences.
 
 [worldirish]: http://worldirish.com
 
