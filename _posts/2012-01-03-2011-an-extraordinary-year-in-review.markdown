@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "2011: An Extraordinary Year in Review"
+title: "2011: My Extraordinary Year in Review"
 category: misc
 excerpt: Wow.  What a year.  I am sure that probably sounds a bit cheesy, but it is an honest sentiment.  A year ago today, I'm sure I felt like 2011 was going to be productive, but I never would have imagined that the year would be defined by such profound personal and professional changes. [...]
 date: 2012-01-03 12:00:00 -05:00
 ---
 
-2011: An Extraordinary Year in Review
+2011: My Extraordinary Year in Review
 =====================================
 
 Wow.  What a year.  I am sure that probably sounds a bit cheesy, but it is an honest sentiment.  A year ago today, I'm sure I felt like 2011 was going to be productive, but I never would have imagined that the year would be defined by such profound personal and professional changes.
