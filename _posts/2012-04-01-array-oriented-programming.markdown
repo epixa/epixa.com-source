@@ -130,3 +130,5 @@ Of course you can!  But don't.  You see, there are still some rogue fans of the 
 The biggest problems with object-oriented programming is clarity and consistency.  What are objects?  Where do they exist?  What are they named?  Who creates them?  These fundamental questions are never completely answered in an object-oriented paradigm.  With array-oriented programming, everything is an array.  It doesn't get much more clear or consistent than that!
 
 So there you have it.  Array-oriented programming is changing the face of modern software development, and it is not too late to get on board.  Its benefits are without question, and I'm confident that once you start developing applications in the paradigm, you will wonder why you ever bothered to write programs any other way.
+
+Hacker News: [news.ycombinator.org/item?id=3783641](http://news.ycombinator.org/item?id=3783641)
