@@ -9,6 +9,19 @@ date: 2012-04-01 12:00:00 -05:00
 A New Paradigm Rises to Save the Modern Web
 ==========================
 
+This was my April Fools day post for 2012.  To clarify a few things:
+
+* As far as I know, array-oriented programming is not a thing.  I sure hope it never becomes a thing.
+* The code that I provided may have some cool components, but it is not good overall.  It is very inflexible and extremely fragile.  I broke it a half dozen times just trying to make simple changes, and it took me 10x longer to write than would be necessary in another coding style.
+* Verbosity should not be a goal of any paradigm.  If you choose to be verbose with your code, so be it.  Good paradigms, like object-oriented and functional programming, empower you to make that sort of decision yourself.
+* If you dig the usage of anonymous functions here, then I highly recommend that you try out some functional programming.  It is fun.
+* The new array syntax in PHP 5.4 is rad as hell.
+* No core developers were harmed in the making of this blog article.
+
+April Fools!
+
+*************
+
 Programming on the web has come a long way since the wild-west early days of the 90s, and nowhere has this been more evident than in the PHP community.  The earliest "apps" made with PHP were little more than some odd scripting bits that helped web pioneers and hobbyists to more easily maintain their HTML websites.  At the turn of the century, larger, procedural PHP apps started to pop up that would eventually change the web as we knew it.  Less than a decade later, the widespread adoption of object-oriented programming throughout most web development communities had led to some of the most sophisticated triumphs of software engineering (or hackery) in history.
 
 But just as procedural coding proved insufficient for developing the types of applications that the consumers of the web demanded, the usefulness of object-oriented programming is rapidly reaching its limits.  Object-oriented programming ultimately results in highly complex, bloated, and inconsistent code bases that cannot sustain the growing demand they will no doubt receive.  Once an object-oriented app reaches a certain mass, those problems begin to create cracks in its very foundation.
