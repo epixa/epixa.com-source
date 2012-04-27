@@ -22,7 +22,7 @@ So I started pondering over lunch this afternoon, how on earth can I possibly ma
 
 To devise said plan, I was inspired by someone that I hadn't really given much thought to in a really long time: Starcraft 2 commentator and comedian, Sean Plott (aka Day[9]).  In 2009, Sean started a webcast called the Day[9] Daily in which he discusses and analyzes all-things Starcraft, and he's continued doing so now, with few exceptions, every single day.  He keeps this organized and interesting by having specific themes for each day of the week (e.g. Funday Monday, Friendsday Wednesday, etc.).
 
-So while I guarantee no fun on any days, I'm going to give a similar organizational style a shot for my blog posts.
+So while I can't guarantee any fun days, I'm going to give a similar organizational style a shot for my blog posts.
 
 ## Monday - PHP
 Every Monday I'm going to talk about a specific thing in the PHP community.  This may include any commits or feature discussions that I think you may find interesting, upcoming events, CFPs, or open source project news.
