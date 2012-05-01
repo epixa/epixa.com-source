@@ -32,4 +32,6 @@ This error is triggered when any exception is thrown but not caught from within 
 
 When this happens, you do not really have many options other than hunting down the destructors in all of your objects to see which one may fail.  May I suggest: ```grep --color -rn "n __destruct"``` to help hunt down the issue in a linux terminal.
 
+**Edit 2012-05-01:** Larry Garfield has [pointed out](http://epixa.com/2012/04/common-cryptic-php-errors.html#comment-514728799) that exceptions being thrown from inside a destructor is not the only way this error can be triggered.  The error is actually triggered any time an exception is thrown outside of the "normal" flow of a the program.  Another place that this could occur, for example, is when an exception is thrown from inside another exception.  Thanks Larry!
+
 You can save yourself a whole lot of frustration in the future if you keep these three error messages in the back of your mind.
